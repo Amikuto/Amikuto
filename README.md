@@ -2,6 +2,13 @@
 
 <!-- ![Alt-текст](https://wakatime.com/share/@Amikuto/e7e3ab39-2b62-4f68-9a70-6ce384a02678.svg?v=3&s=460 "Орк") -->
 <!--START_SECTION:waka-->
+```text
+Other    5 hrs 2 mins    ████████████░░░░░░░░░░░░░   48.17 % 
+Python   3 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   32.86 % 
+HTML     57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+CSS      27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+VimL     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+```
 <!--END_SECTION:waka-->
 
 <img src="https://github.com/Amikuto/Amikuto/blob/master/images/stat.svg" alt=""/>
