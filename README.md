@@ -16,4 +16,4 @@ Git Config   13 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img src="https://github.com/Amikuto/Amikuto/blob/master/images/stat.svg" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amikuto">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amikuto">
-<img src="https://github-readme-stats.vercel.app/api?username=Amikuto&show_icons=true&theme=gotham">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Amikuto&show_icons=true&theme=gotham"> -->
