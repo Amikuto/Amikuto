@@ -5,12 +5,7 @@
 <!-- ![Alt-текст](https://wakatime.com/share/@Amikuto/e7e3ab39-2b62-4f68-9a70-6ce384a02678.svg?v=3&s=460 "Орк") -->
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
-
-GitIgnore file   5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.09 % 
-Python           5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.72 % 
-Java             1 min           ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.00 % 
-VimL             1 min           ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.20 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
