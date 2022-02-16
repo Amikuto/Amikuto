@@ -5,7 +5,9 @@
 <!-- ![Alt-текст](https://wakatime.com/share/@Amikuto/e7e3ab39-2b62-4f68-9a70-6ce384a02678.svg?v=3&s=460 "Орк") -->
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
+
+Total: 30 mins
 
 GitIgnore file   9 mins          ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.79 % 
 Java             7 mins          ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.87 % 
