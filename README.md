@@ -6,7 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 January 2023 - To: 27 January 2023
+
+Python       0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.66 %
+JavaScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.34 %
 ```
 
 <!--END_SECTION:waka-->
